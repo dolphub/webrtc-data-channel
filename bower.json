@@ -1,0 +1,20 @@
+{
+  "name": "webrtc-data-channel",
+  "description": "web rtc protocol testing",
+  "main": "index.js",
+  "authors": [
+    "Randy Mikkelsaar <randy.mikkelsaar@ek3.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dolphub/webrtc-data-channel",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
